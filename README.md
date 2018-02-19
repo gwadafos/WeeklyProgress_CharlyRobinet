@@ -1,6 +1,6 @@
 # WeeklyProgress of Charly #
--## Week (Start Date - End Date) ##
-+## Week (19th Feb - 24th Feb) ##
+- ## Week (Start Date - End Date) ##
++ ## Week (19th Feb - 24th Feb) ##
 
 
 TODO
